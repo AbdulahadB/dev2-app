@@ -1,6 +1,6 @@
 name: Python Lint and Test (L+T)
 
-run_name: L+T, triggered by ${{ github.actor }}
+run-name: L+T, triggered by ${{ github.actor }}
 on:
   push:
     branches: 
